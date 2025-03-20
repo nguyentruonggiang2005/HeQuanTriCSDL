@@ -1,4 +1,4 @@
-﻿CREATE DATABASE QLNhanSu;
+CREATE DATABASE QLNhanSu;
 USE QLNhanSu;
 -- Tạo bảng PhongBan
 CREATE TABLE PhongBan (
