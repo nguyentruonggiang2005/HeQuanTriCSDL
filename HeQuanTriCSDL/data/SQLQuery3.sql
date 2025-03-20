@@ -1,4 +1,4 @@
-﻿select * from NhanVienDuAn
+select * from NhanVienDuAn
 select * from DuAn
 select * from NhanVien
 select * from PhongBan
